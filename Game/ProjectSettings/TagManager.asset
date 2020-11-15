@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TargetEnemyUnit
+  - PlayerUnit
+  - EnemyUnit
+  - DeadUnit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backgroung
+    uniqueID: 3910063655
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: gameObj
+    uniqueID: 2322200687
+    locked: 0
+  - name: HUD
+    uniqueID: 1895684583
+    locked: 0
