@@ -4,10 +4,8 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - TargetEnemyUnit
-  - PlayerUnit
-  - EnemyUnit
-  - DeadUnit
+  - Enemy
+  - Fire
   layers:
   - Default
   - TransparentFX
@@ -17,8 +15,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Player
+  - Enemy
   - 
   - 
   - 
@@ -42,15 +40,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: backgroung
-    uniqueID: 3910063655
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: gameObj
-    uniqueID: 2322200687
-    locked: 0
   - name: HUD
-    uniqueID: 1895684583
+    uniqueID: 2966989267
     locked: 0
